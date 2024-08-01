@@ -6,13 +6,11 @@
         "uniques": ["Founds a new city <by consuming this unit>","Requires at least [4] population"]
     },
     {
-		"name": "Rifleman",
-		"unitType": "Infantry",
-		"movement": 2,
-		"strength": 5,
-        "range": 2,
-		"rangedStrength": 7,
-		"cost": 40,
+		"name": "warrior",
+		"unitType": "guard",
+		"movement": 3,
+		"strength": 100,
+		"cost": 30,
 		"attackSound": "shot"
 	}
 ]
