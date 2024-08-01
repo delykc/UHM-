@@ -4,7 +4,7 @@
         "movementType": "Land"
     },
     {
-        "name": "melee",
+        "name": "guard",
         "movementType": "Land"
     }
     
