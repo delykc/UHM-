@@ -1,10 +1,10 @@
 [
     {
-        "name": "Civilian",
+        "name": "people",
         "movementType": "Land"
     },
     {
-        "name": "Infantry",
+        "name": "melee",
         "movementType": "Land"
     }
     
