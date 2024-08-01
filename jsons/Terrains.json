@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Grassland",
+		"name": "fertiland",
 		"type": "Land",
-		"food": 2,
+		"food": 1,
 		"movementCost": 1,
         "RGB": [0, 163, 0],
         "uniques": []
