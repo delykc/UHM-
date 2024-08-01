@@ -1,9 +1,9 @@
 [
     {
-        "name": "Settler",
-        "unitType": "Civilian",
+        "name": "a couple <3",
+        "unitType": "people",
         "movement": 2,
-        "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
+        "uniques": ["Founds a new city <by consuming this unit>","Requires at least [4] population"]
     },
     {
 		"name": "Rifleman",
