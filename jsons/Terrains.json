@@ -7,4 +7,14 @@
         "RGB": [0, 163, 0],
         "uniques": []
     }
+
+	{
+		"name": "plains",
+		"type": "Land",
+		"production": "1",
+		"movementCost": 0.5,
+	        "RGB": [204, 153, 0],
+		"uniques": []
+
+	}
 ]
